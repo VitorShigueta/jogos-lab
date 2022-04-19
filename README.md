@@ -1,11 +1,11 @@
 # jogos-lab
 
-Meu laboratório de criação de jogos.
+<p>Meu laboratório de criação de jogos.</p>
 
-Aqui estarão presentes vários jogos que criei e criarei durante meu aprendizado.
+<p>Aqui estarão presentes vários jogos que criei e criarei durante meu aprendizado.</p>
 
-Exemplos:
-Jogo do dinossauro sem internet:
+<p>Exemplos:</p>
+<p>Jogo do dinossauro sem internet:</p>
 ![Exemplo jogo](./assets/example.png)
-Jogo da velha:
+<p>Jogo da velha:</p>
 ![Exemplo jogo](./assets/Ganhador.PNG)
