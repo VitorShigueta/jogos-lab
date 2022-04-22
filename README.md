@@ -18,3 +18,7 @@ Jogo pong:
 
 ![Exemplo jogo](./assets/pong.PNG)
 
+Jogo resgate:
+
+![Exemplo jogo](./assets/exemplo-resgate.PNG)
+
