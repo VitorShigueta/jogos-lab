@@ -22,3 +22,7 @@ Jogo resgate:
 
 ![Exemplo jogo](./assets/exemplo-resgate.PNG)
 
+Space Shooter
+
+![Exemplo jogo](./assets/space-shooter-example.PNG)
+
